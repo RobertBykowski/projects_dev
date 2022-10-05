@@ -1,0 +1,1 @@
+Open all files VCS and record all data in one TXT file. 
